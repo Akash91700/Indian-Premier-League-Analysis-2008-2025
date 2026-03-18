@@ -23,7 +23,7 @@ This project presents a comprehensive analysis of the Indian Premier League (IPL
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/Akash91700/Indian-Premier-League-Analysis-2008-2025/blob/main/IPL%20Dash%20Board.png)
 
 ---
 
